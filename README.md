@@ -26,6 +26,8 @@ The relationship between $$I_C$$ and $$I_B$$ is approximately $$I_C = \beta I_B$
 
 Using this method we get the maximum current gain is approximately $$\beta = 300$$.
 
+## 
+
 
 
 
