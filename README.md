@@ -13,3 +13,5 @@ The early voltage is obtained by extrapolating a best-fit line onto our characte
   3) Where the VCE curve intersects the characteristic curves will be our approximate early voltage.
 
  Using **Method 1** we get $$V_{A1} = 90V$$ and using **Method 2** we get $$V_{A2} = 96V$$. 
+
+ ## Current Gain $\beta$ 
