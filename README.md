@@ -32,7 +32,7 @@ A CE amplifier was designed using the $$V_A$$ and $$\beta$$ found above. The CE 
   * $$R_{in} \geq 50k\Omega$$
   * $$R_I = 0$$
   * $$R_3 = \infty$$
-  #### Input Resistance
+  ### Input Resistance
   Hello
 
 
