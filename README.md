@@ -18,3 +18,4 @@ The early voltage is obtained by extrapolating a best-fit line onto our characte
  Using **Method 1** we get $$V_{A1} = 90V$$ and using **Method 2** we get $$V_{A2} = 96V$$. 
 
  ## Current Gain $\beta$ 
+ The relationship between $$I_C$$ and $$I_B$$ is approximately $$I_C = \beta I_B$$, where $$\beta$$ is the current gain of the transistor. 
