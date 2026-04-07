@@ -24,7 +24,7 @@ The relationship between $$I_C$$ and $$I_B$$ is approximately $$I_C = \beta I_B$
 |----------------------------------------------------------|-------------------------------------------------------|
 | ![](images/Current-Gain-images/circuit-current-gain.png) | ![](images/Current-Gain-images/current-gain-plot.png) |
 
-Using this method we get the maximum current gain is approximately $$\beta = 300$$.
+Using this method we get the maximum current gain is approximately $$\beta = 293.5$$ and the collector current for this beta vlaue is approximately $$I_C = 8.9$$mA
 
 ## Common-Emitter Amplifier Design
 A CE amplifier was designed using the $$V_A$$ and $$\beta$$ found above. The CE amplifier was designed to have the following values:
