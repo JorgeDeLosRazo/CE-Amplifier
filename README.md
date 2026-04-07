@@ -31,10 +31,16 @@ The unity gian frequency is useful when evaluating the frequency response of the
 
 By sweeping $$V_{BE}$$ we an performing an AC sweep we can obtain the unity-gain frequency at different values of $$V_{BE}$$.
 
-| Current Gain Circuit                                     | Current Gain Plot                                     |
-|----------------------------------------------------------|-------------------------------------------------------|
+| Current Gain Circuit                                     | Current Gain Plot                                                                     |
+|----------------------------------------------------------|---------------------------------------------------------------------------------------|
 | ![](images/Unity-Gain-Frequency-images/unity-gain-frequency-circuit.png) | ![](images/Unity-Gain-Frequency-images/unity-gain-frequency-plot.png) |
 
+| $$V_{BE}$$  |  $$f_T$$  |
+|-------------|-----------|
+|    0.6V     |  53.7MHz  |
+|    0.7V     |  346.7MHz |
+|    0.8V     | 380.2MHz  |
+|    0.9V     |  281.8MHz |
 
 ## Common-Emitter Amplifier Design
 A CE amplifier was designed using the $$V_A$$ and $$\beta$$ found above. The CE amplifier was designed to have the following values:
