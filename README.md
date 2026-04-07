@@ -29,7 +29,11 @@ Using this method we get the maximum current gain is approximately $$\beta = 293
 ## Unity Gain Frequency $$f_T$$
 The unity gian frequency is useful when evaluating the frequency response of the CE amplifier. This parameter won't be used in this project however it is still an important parameter to obtain.<br>
 
-The
+By sweeping $$V_{BE}$$ we an performing an AC sweep we can obtain the unity-gain frequency at different values of $$V_{BE}$$.
+
+| Current Gain Circuit                                     | Current Gain Plot                                     |
+|----------------------------------------------------------|-------------------------------------------------------|
+| ![](images/Current-Gain-images/circuit-current-gain.png) | ![](images/Current-Gain-images/current-gain-plot.png) |
 
 
 ## Common-Emitter Amplifier Design
