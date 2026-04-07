@@ -2,7 +2,7 @@
 The Common-Emitter Amplifier is very popular in electronics, thus understanding how they are designed is fundamental for those interested in electronics, and especially important for those interested in Anlog Design. In this repo, I found important parameters of the 2N3904 BJT--parameters such as the early voltage, input & output resistance, and its $\beta$. From the parameters found a CE Amplifier was then designed.
 
 ## Early Voltage
-The early voltage is obtained by extrapolating a best-fit line onto our characteristic curves nd looking at where they intersect the x-axis. Unfortunately LTSpice doesn't have a way to create best-fit lines to extrapolate so two different methods were used
+The early voltage is obtained by extrapolating a best-fit line onto our characteristic curves and looking at where they intersect the x-axis. Unfortunately LTSpice doesn't have a way to create best-fit lines to extrapolate so two different methods were used
 
 ![](images/Early-Voltage-images/circuit-method-1.png)
 
