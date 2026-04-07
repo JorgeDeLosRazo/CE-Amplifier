@@ -35,12 +35,15 @@ By sweeping $$V_{BE}$$ we an performing an AC sweep we can obtain the unity-gain
 |----------------------------------------------------------|---------------------------------------------------------------------------------------|
 | ![](images/Unity-Gain-Frequency-images/unity-gain-frequency-circuit.png) | ![](images/Unity-Gain-Frequency-images/unity-gain-frequency-plot.png) |
 
+
+<p align="center">
 | $$V_{BE}$$  |  $$f_T$$  |
 |-------------|-----------|
 |    0.6V     |  53.7MHz  |
 |    0.7V     |  346.7MHz |
 |    0.8V     | 380.2MHz  |
 |    0.9V     |  281.8MHz |
+<p>
 
 ## Common-Emitter Amplifier Design
 A CE amplifier was designed using the $$V_A$$ and $$\beta$$ found above. The CE amplifier was designed to have the following values:
