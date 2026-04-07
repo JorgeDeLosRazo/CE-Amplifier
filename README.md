@@ -26,6 +26,11 @@ The relationship between $$I_C$$ and $$I_B$$ is approximately $$I_C = \beta I_B$
 
 Using this method we get the maximum current gain is approximately $$\beta = 293.5$$ and the collector current for this beta vlaue is approximately $$I_C = 8.9\text{mA}$$
 
+## Unity Gain Frequency $$f_T$$
+The unity gian frequency is useful when evaluating the frequency response of the CE amplifier. This parameter won't be used in this project however it is still an important parameter to obtain.<br>
+  Hello
+
+
 ## Common-Emitter Amplifier Design
 A CE amplifier was designed using the $$V_A$$ and $$\beta$$ found above. The CE amplifier was designed to have the following values:
   * $$|A_V| \geq 200$$
