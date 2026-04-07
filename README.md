@@ -33,7 +33,7 @@ By sweeping $$V_{BE}$$ we an performing an AC sweep we can obtain the unity-gain
 
 | Current Gain Circuit                                     | Current Gain Plot                                     |
 |----------------------------------------------------------|-------------------------------------------------------|
-| ![](images/Unity-Gain-Frequency-images/unity-gain-frequency-circuit.png) | ![](images/Current-Gain-images/current-gain-plot.png) |
+| ![](images/Unity-Gain-Frequency-images/unity-gain-frequency-circuit.png) | ![](images/Unity-Gain-Frequency-images/unity-gain-frequency-plot.png) |
 
 
 ## Common-Emitter Amplifier Design
