@@ -37,12 +37,14 @@ By sweeping $$V_{BE}$$ we an performing an AC sweep we can obtain the unity-gain
 
 
 <p align="center">
+  
 | $$V_{BE}$$  |  $$f_T$$  |
 |-------------|-----------|
 |    0.6V     |  53.7MHz  |
 |    0.7V     |  346.7MHz |
 |    0.8V     | 380.2MHz  |
 |    0.9V     |  281.8MHz |
+
 <p>
 
 ## Common-Emitter Amplifier Design
