@@ -118,11 +118,19 @@ $$R_B \approx 190~\text{k}\Omega$$
 
 Which means that 
 
-$$
-\begin{equation}
-\frac{R_1 R_2}{R_1 + R_2} = 190 \ \text{k}\Omega \text{(1)}
-\end{equation}
-$$
+<table width="100%" style="border: none;">
+  <tr style="border: none;">
+    <td align="right" style="border: none; width: 10%;"></td>
+    
+    <td align="center" style="border: none; width: 80%;">
+      $$\frac{R_1 R_2}{R_1 + R_2} = 190 \ \text{k}\Omega$$
+    </td>
+    
+    <td align="right" style="border: none; width: 10%;">
+      (1)
+    </td>
+  </tr>
+</table>
 
 
 
