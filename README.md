@@ -70,7 +70,7 @@ Since $120~\text{k}\Omega$ is a standard resistor value, we can keep it.
 ### Small-Signal Parameters  
   * $g_m = \frac{I_C}{V_T} = \frac{0.1~\text{mA}}{25~\text{mV}} = 4~\text{mS}$
   * $r_{\pi} = \frac{\beta}{I_C} = \frac{312}{0.1~\text{mA}} = 78~\text{k}\Omega$
-  * $r_o = frac{V_A}{I_C} = \frac{96~\text{V}}{0.1~\text{mA}} = 960~\text{k}\Omega$
+  * $r_o = \frac{V_A}{I_C} = \frac{96~\text{V}}{0.1~\text{mA}} = 960~\text{k}\Omega$
 
 
 
