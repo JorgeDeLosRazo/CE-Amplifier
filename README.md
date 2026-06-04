@@ -161,3 +161,14 @@ $$
 \end{flalign}
 $$
 
+The resistor values for our CE amplifier are then:
+
+$$
+\begin{flalign}
+    & R_C =  120~\text{k}\Omega\\
+    & R_E =  68~\text{k}\Omega\\
+    & R_1 = 220~\text{k}\Omega\\
+    & R_2 = 680~\text{k}\Omega\\
+\end{flalign}
+$$
+
