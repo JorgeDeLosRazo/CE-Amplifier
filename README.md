@@ -136,5 +136,28 @@ $$
 
 Note that
 
+$$V_{eq} = (V_{CC} + V_{EE}) \frac{R_1}{R_1 + R_2} - V_{EE}$$
 
+Solving for $\frac{R_1}{R_1 + R_2} yields the following
+
+$$
+\begin{align*}
+\frac{R_1}{R_1 + R_2} &= \frac{V_{eq} + V_{EE}}{V_{CC} + V_{EE}}\\
+                      &= \frac{-5.92~\text{V} + 12~\text{V}}{24~\text{V}}\\
+                      &\approx 0.253\\
+\end{align*}
+$$
+
+Plugging this into Equation (1) results in the following resistor values:
+
+$R_1 \approx 254~\text{k}\Omega$ and $R_2 = 751~\text{k}\Omega$
+
+After choosing standard resistor values we get the following resistor values:
+
+$$
+\begin{flalign}
+    & R_1 = 220~\text{k}\Omega\\
+    & R_2 = 680~\text{k}\Omega\\
+\end{flalign}
+$$
 
