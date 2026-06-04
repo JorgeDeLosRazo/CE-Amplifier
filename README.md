@@ -125,6 +125,7 @@ $$
 $$
 
 
+
 Now let's find $V_{eq}$ since it will be useful when solving for our resistor values. Writing the KVL equation around the $V_{eq}$ loop we get:
 
 $$
