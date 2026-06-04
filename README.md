@@ -120,7 +120,7 @@ Which means that
 
 $$
 \begin{equation}
-\frac{R_1 R_2}{R_1 + R_2} = 190 \ \text{k}\Omega 
+\frac{R_1 R_2}{R_1 + R_2} = 190 \ \text{k}\Omega \text{(1)}
 \end{equation}
 $$
 
