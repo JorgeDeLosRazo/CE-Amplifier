@@ -81,7 +81,7 @@ $$A_v = -\frac{R_B \parallel r_{\pi}}{R_I + R_B \parallel r_{\pi}} g_m R_L$$
 
 Since for our design $R_I = 0$, the gain formula simplifies to 
 
-$$A_v = g_m R_L$$
+$$A_v = -g_m R_L$$
 
 Where $R_L = r_o \parallel R_C \parallel R_3 = (960~\text{k}\Omega) \parallel (120~\text{k}\Omega) \parallel (0 \Omega) = 106.7~\text{k}\Omega$. So our gain is the following:
 
