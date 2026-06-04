@@ -90,7 +90,7 @@ $$|A_v| = (4~\text{mS})(106.7~\text{k}\Omega) = 426.8$$
 ### Finding $R_E$
 Since we chose $V_C = 0~\text{V}$, the voltage from the $V_C$ node to the $V_{EE}$ node:
 
-$$V_{CE} + I_E R_E = 12~\text{V}$
+$$V_{CE} + I_E R_E = 12~\text{V}$$
 
 Since the euqation above has two unknowns, let's choose $V_{CE} = 6~\text{V}$, which when we solve for $R_E# we get the following:
 
