@@ -92,7 +92,7 @@ Since we chose $V_C = 0~\text{V}$, the voltage from the $V_C$ node to the $V_{EE
 
 $$V_{CE} + I_E R_E = 12~\text{V}$$
 
-Since the euqation above has two unknowns, let's choose $V_{CE} = 6~\text{V}$, which when we solve for $R_E# we get the following:
+Since the euqation above has two unknowns, let's choose $V_{CE} = 6~\text{V}$, which when we solve for $R_E$ we get the following:
 
 $$R_E = \frac{12~\text{V} -V_{CE}}{I_E}$$
 
