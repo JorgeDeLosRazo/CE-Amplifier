@@ -182,9 +182,9 @@ $$
 
 ### Parameter Comparison
 
-| - | $R_1$ | $R_2$ | $R_E$ | $R_C$ | $\|A_v\|$ | $R_{in}$ |  
+|   -   | $R_1$ | $R_2$ | $R_E$ | $R_C$ | $\|A_v\|$ | $R_{in}$ |  
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Design Specs** | - | - | - | - | 200 | $50\ \text{k}\Omega$ | 
+| **Design Specs** | N/A | N/A | N/A | N/A | 200 | $50\ \text{k}\Omega$ | 
 | **Calculated** | $220\ \text{k}\Omega$ | $680\ \text{k}\Omega$ | $68\ \text{k}\Omega$ | $120\ \text{k}\Omega$ | 427 | $53\ \text{k}\Omega$ |
 | **Simulated** | $220\ \text{k}\Omega$ | $680\ \text{k}\Omega$ | $68\ \text{k}\Omega$ | $120\ \text{k}\Omega$ | 328 | $66\ \text{k}\Omega$ |
 
