@@ -58,7 +58,7 @@ $$0.1~\text{mA}$$
 
 A good rule-of-thumb is to set $V_C$ to be the midpoint of the power supplies for maximum voltage swing---since we are using a double power supply with $$\pm 12$$V, their midpoint is $0$V:
 
-$$V_C = 0$$V
+$$V_C = 0~\text{V}$$
 
 
 
