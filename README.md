@@ -72,6 +72,17 @@ Since $120~\text{k}\Omega$ is a standard resistor value, we can keep it.
   * $r_{\pi} = \frac{\beta}{I_C} = \frac{312}{0.1~\text{mA}} = 78~\text{k}\Omega$
   * $r_o = \frac{V_A}{I_C} = \frac{96~\text{V}}{0.1~\text{mA}} = 960~\text{k}\Omega$
 
+Note that $r_{\pi} = 78~\text{k}\Omega$, which is large enough to meet our $R_{in}$ requirement---$R_E$ can be completely bypassed.<br>
+
+### Gain 
+The gain for a common-emitter amplifier with a bypassed $R_E$ is the following:
+
+$$A_v = -\frac{R_B||r_{\pi}}{R_I + R_B||r_{\pi}} g_m R_L$$
+
+Since for our design $R_I = 0$, the gain formula 
+
+
+
 
 
 
