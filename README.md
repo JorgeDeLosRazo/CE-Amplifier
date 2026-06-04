@@ -172,3 +172,5 @@ $$
 \end{flalign}
 $$
 
+## LTspice Simulation of CE Amplfiier
+
