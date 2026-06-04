@@ -51,6 +51,10 @@ A CE amplifier was designed using the $$V_A$$ and $$\beta$$ found above. The CE 
   * $$R_{in} \geq 50k\Omega$$
   * $$R_I = 0$$
   * $$R_3 = \infty$$
+    
+### Small-Signal Parameters  
+  * $$g_m = \frac{I_C}{V_T} = \frac{0.1~\text{mA}}{25~\text{mV}} = 4~\text{mS}$$
+
 
 
 
