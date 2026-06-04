@@ -123,7 +123,7 @@ $$
 \begin{align*}
 V_{eq} &= I_B R_B + I_E R_E - V_{EE}\\
        &= \frac{I_C}{\beta} R_B + (I_C + \frac{I_C}{\beta}) R_E - V_{EE}\\
-       &= \frac{0.1~\text{mA}}{\beta} (190~\text{k}\Omega) + (0.1~\text{mA} + \frac{0.1~\text{mA}}{\beta}) (60~\text{k}\Omega) - 12~\text{V}\\
+       &= \left(\frac{0.1~\text{mA}}{\beta}\right) (190~\text{k}\Omega) + \left( 0.1~\text{mA} + \frac{0.1~\text{mA}}{\beta} \right) (60~\text{k}\Omega) - 12~\text{V}\\
        &= -5.92~\text{V}
 \end{align*}
 $$
