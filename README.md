@@ -175,3 +175,9 @@ $$
 ## LTspice Simulation of Designed CE Amplfiier
 ![](images/Designed-CE-Amp-images/Designed-CE-Amplifier.png)
 
+| Common-Emitter Gain Plot                                                 | Input Resistance Plot                                                  |
+|--------------------------------------------------------------------------|------------------------------------------------------------------------|
+| ![](images/Designed-CE-Amp-images/gain-plot.png)                         | ![](images/Designed-CE-Amp-images/input-resistance.png)                |
+
+
+
