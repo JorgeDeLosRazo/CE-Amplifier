@@ -115,6 +115,10 @@ Note that above we specified $\geq 55~\text{k}\Omega$ instead of the $\geq 50~\t
 Solving for $R_B$ above we get
 
 $$R_B \approx 190~\text{k}\Omega$$
+
+Which means that 
+
+$$\frac{R_1 R_2}{R_1 + R_2} = 190~\text{k}\Omega \tag{(1)}$$
 <br>
 
 Now let's find $V_{eq}$ since it will be useful when solving for our resistor values. Writing the KVL equation around the $V_{eq}$ loop we get:
@@ -128,6 +132,7 @@ V_{eq} &= I_B R_B + I_E R_E - V_{EE}\\
 \end{align*}
 $$
 
+Note that
 
 
 
