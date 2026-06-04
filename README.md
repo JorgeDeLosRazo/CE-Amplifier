@@ -118,20 +118,9 @@ $$R_B \approx 190~\text{k}\Omega$$
 
 Which means that 
 
-<table width="100%" style="border: none;">
-  <tr style="border: none;">
-    <td align="right" style="border: none; width: 10%;"></td>
-    
-    <td align="center" style="border: none; width: 80%;">
-      $$\frac{R_1 R_2}{R_1 + R_2} = 190 \ \text{k}\Omega$$
-    </td>
-    
-    <td align="right" style="border: none; width: 10%;">
-      (1)
-    </td>
-  </tr>
-</table>
-
+$$
+\frac{R_1 R_2}{R_1 + R_2} = 190 \ \text{k}\Omega \hspace{4cm} (1)
+$$
 
 
 Now let's find $V_{eq}$ since it will be useful when solving for our resistor values. Writing the KVL equation around the $V_{eq}$ loop we get:
