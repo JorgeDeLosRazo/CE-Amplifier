@@ -51,9 +51,13 @@ A CE amplifier was designed using the $$V_A$$ and $$\beta$$ found above. The CE 
   * $$R_{in} \geq 50k\Omega$$
   * $$R_I = 0$$
   * $$R_3 = \infty$$
-    
+
+A collector current of $$0.1~\text{mA}$$ was chosen. The current gain simulation was checked to find the $\beta$ value at $I_C = 0.1~\text{mA}$.<br>
+A good rule-of-thumb is to set $V_C$ to be the midpoint of the power supplies for maximum voltage swing---since we are using a double power supply with $$\pm 12$V, their midpoint is $0$V, so $V_C = 0$V.<br>
+
+
 ### Small-Signal Parameters  
-  * $$g_m = \frac{I_C}{V_T} = \frac{0.1~\text{mA}}{25~\text{mV}} = 4~\text{mS}$$
+  * $$g_m = \frac{I_C}{V_T} = \frac{0.1~\text{mA}}{25~\text{mV}} = 4~\text{mS}$$ 
 
 
 
