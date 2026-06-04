@@ -88,8 +88,21 @@ Where $R_L = r_o \parallel R_C \parallel R_3 = (960~\text{k}\Omega) \parallel (1
 $$|A_v| = (4~\text{mS})(106.7~\text{k}\Omega) = 426.8$$
 
 ### Finding $R_E$
+Since we chose $V_C = 0~\text{V}$, the voltage from the $V_C$ node to the $V_{EE}$ node:
 
+$$V_{CE} + I_E R_E = 12~\text{V}$
 
+Since the euqation above has two unknowns, let's choose $V_{CE} = 6~\text{V}$, which when we solve for $R_E# we get the following:
+
+$$R_E = \frac{12~\text{V} -V_{CE}}{I_E}$$
+
+Note that $I_E = I_C + I_B = I_C + \frac{I_C}{\beta}$. When plugging into the above equation we get
+
+$$R_E = \frac{12~\text{V} -V_{CE}}{I_C + \frac{I_C}{\beta}} \approx 60~\text{k}\Omega$$
+
+Since $60~\text{k}\Omega$ is not a standard resistor value, we choose 
+
+$$R_E = 68~\text{k}\Omega$$
 
 
 
