@@ -150,7 +150,7 @@ $$
 
 Plugging this into Equation (1) results in the following resistor values:
 
-$$R_1 \approx 254~\text{k}\Omega \text{  and  } R_2 = 751~\text{k}\Omega$$
+$$R_1 \approx 254~\text{k}\Omega \text{  and  } R_2 \approx 751~\text{k}\Omega$$
 
 After choosing standard resistor values we get the following resistor values:
 
