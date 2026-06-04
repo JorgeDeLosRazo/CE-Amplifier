@@ -64,11 +64,12 @@ With the chosen collector current $I_C$ and the collector voltage $V_C$, we can 
 
 $$I_C = \frac{V_{CC} - V_C}{R_C} \Rightarrow R_C = \frac{V_{CC} - V_C}{I_C} = \frac{12~\text{V}}{0.1~\text{mA}} = 120~\text{k}\Omega$$
 
-
+Since $120~\text{k}\Omega$ is a standard resistor value, we can keep it.
 
 
 ### Small-Signal Parameters  
-  * $$g_m = \frac{I_C}{V_T} = \frac{0.1~\text{mA}}{25~\text{mV}} = 4~\text{mS}$$ 
+  * $g_m = \frac{I_C}{V_T} = \frac{0.1~\text{mA}}{25~\text{mV}} = 4~\text{mS}$
+  * $r_{\pi}$
 
 
 
