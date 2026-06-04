@@ -173,5 +173,5 @@ $$
 $$
 
 ## LTspice Simulation of Designed CE Amplfiier
-![](images/Designed-CE-Amp-images/Designed CE Amplifier.png)
+![](images/Designed-CE-Amp-images/Designed-CE-Amplifier.png)
 
