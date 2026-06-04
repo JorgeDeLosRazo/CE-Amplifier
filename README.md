@@ -105,6 +105,30 @@ Since $60~\text{k}\Omega$ is not a standard resistor value, we choose
 $$R_E = 68~\text{k}\Omega$$
 
 
+### Finding $R_1$ and $R_2$
+Fimding these resistor values is a little tricky becuase we need two equations (since we have two unknowns). <br>
+So far we have not chekced if we meet the $R_{in}$ restriction.
+
+$$R_{in} = R_{iB} \parallel R_B \geq 55~\text{k}\Omega$$
+
+Note that above we specified $\geq 55~\text{k}\Omega$ instead of the $\geq 50~\text{k}\Omega$. This is because I am adding a $10\%$ tolerance to our design specs for better results.<br>
+Solving for $R_B$ above we get
+
+$$R_B \approx 190~\text{k}\Omega$$
+
+
+
+
+Writing the KVL equation for the loop around $V_{eq}$ and $R_E$ we get the following:
+
+$$
+\begin{align*}
+V_{eq} &= I_B R_B + I_E R_E - V_{EE}\\
+       &= \frac{I_C}{\beta} R_B + (I_C + \frac{I_C}{\beta}) R_E - V_{EE}\\
+       &= 
+\end{align*}
+$$
+
 
 
 
