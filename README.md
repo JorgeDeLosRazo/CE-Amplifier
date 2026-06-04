@@ -60,6 +60,10 @@ A good rule-of-thumb is to set $V_C$ to be the midpoint of the power supplies fo
 
 $$V_C = 0~\text{V}$$
 
+With the chosen collector current $I_C$ and the collector voltage $V_C$, we can calculate the value of the collector resistor $R_C$:
+
+$$I_C = \frac{V_{CC} - V_C}{R_C} \Rightarrow R_C = \frac{V_{CC} - V_C}{I_C} = \frac{12~\text{V}}{0.1~\text{mA}} = 120~\text{k}\Omega$$
+
 
 
 
