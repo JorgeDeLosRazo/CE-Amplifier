@@ -87,6 +87,8 @@ Where $R_L = r_o \parallel R_C \parallel R_3 = (960~\text{k}\Omega) \parallel (1
 
 $$|A_v| = (4~\text{mS})(106.7~\text{k}\Omega) = 426.8$$
 
+### Finding $R_E$
+
 
 
 
