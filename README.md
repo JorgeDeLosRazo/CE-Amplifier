@@ -180,7 +180,7 @@ $$
 |--------------------------------------------------------------------------|------------------------------------------------------------------------|
 | ![](images/Designed-CE-Amp-images/gain-plot.png)                         | ![](images/Designed-CE-Amp-images/input-resistance.png)                |
 
-### Parameter Comparison
+### Calculated vs Simulated
 
 |   -  | $I_C$| $R_1$ | $R_2$ | $R_E$ | $R_C$ | $\|A_v\|$ | $R_{in}$ |  
 | :--- | :---: |:---: | :---: | :---: | :---: | :---: | :---: |
