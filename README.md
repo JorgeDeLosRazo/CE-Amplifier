@@ -190,7 +190,7 @@ $$
 
 ## Circuit of Designed CE Amplfiier
 
-![](images/Designed-CE-Amp-images/Designed-CE-Amplifier.png)
+![](images/Designed-CE-Amp-images/built-CE-amp.jpeg)
 
 The designed CE amplifier was then built and the following parameters were measured:
 
