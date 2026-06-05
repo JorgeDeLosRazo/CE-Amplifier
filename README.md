@@ -194,7 +194,7 @@ The designed CE amplifier was then built and the following parameters were measu
 $$
 \begin{flalign}
     & Av = \frac{1.95~\text{V}}{12.9~\text{mV}} = 151.2\\
-    & R_{in} = \left( \frac{1.1}{12.9 - 1.1} \right)(51~\text{k}\Omega) = 4.8~\text{k}\Omega\\
+    & R_{in} = \left( \frac{1.1}{12.9 - 1.1} \right) (51~\text{k}\Omega) = 4.8~\text{k}\Omega\\
 \end{flalign}
 $$
 
@@ -202,7 +202,7 @@ Where the input resistance was obtained by placing a resistor in series with the
 
 $$
 \begin{align*}
-  V_B &= V__{source} \times \left( \frac{R_{in}}{R_{test} + R_{in}} \right)\\
+  V_B &= V_{source} \times \left( \frac{R_{in}}{R_{test} + R_{in}} \right)\\
       R_{in} &= R_{test} \times \left( \frac{V_B}{V_{source} - V_{B}} \right)
 \end{align*}
 $$
