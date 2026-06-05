@@ -189,6 +189,9 @@ $$
 | **Simulated** | $76.8~\mu\text{A}$ | $220\ \text{k}\Omega$ | $680\ \text{k}\Omega$ | $68\ \text{k}\Omega$ | $120\ \text{k}\Omega$ | 328 | $66\ \text{k}\Omega$ |
 
 ## Circuit of Designed CE Amplfiier
+
+![](images/Designed-CE-Amp-images/Designed-CE-Amplifier.png)
+
 The designed CE amplifier was then built and the following parameters were measured:
 
 $$
