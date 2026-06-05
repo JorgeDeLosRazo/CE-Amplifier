@@ -198,4 +198,15 @@ $$
 \end{flalign}
 $$
 
-As can be seen, the parameters
+Where the input resistance was obtained by placing a resistor in series with the input capacitor C1, measuring the voltage at the base terminal after placing resistor, and using the voltage divider formula to solve for $R_{in}$
+
+$$
+\begin{align*}
+  V_B &= V__{source} \times \left( \frac{R_{in}}{R_{test} + R_{in}} \right)\\
+      R_{in} &= R_{test} \times \left( \frac{V_B}{V_{source} - V_{B}} \right)
+\end{align*}
+$$
+
+As can be seen, our parameters are not met. I played around with the resistor values and the gain was improved by replacing $R_C = 120~\text{k}\Omega$ with $R_C = 68~\text{k}\Omega$ and obtained a better gain of 
+
+$$A_v = \frac{3.78~\text{V}}{14.2~\text{mV}} = 266.2$$
