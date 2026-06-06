@@ -160,7 +160,7 @@ $$
     & R_2 = 680~\text{k}\Omega\\
 \end{flalign}
 $$
-
+aaa
 The resistor values for our CE amplifier are then:
 
 
@@ -172,6 +172,7 @@ $$
     & R_2 = 680~\text{k}\Omega\\
 \end{flalign}
 $$
+
 
 ## LTspice Simulation of Designed CE Amplfiier
 ![](images/Designed-CE-Amp-images/Designed-CE-Amplifier.png)
