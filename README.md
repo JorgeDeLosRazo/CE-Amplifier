@@ -160,7 +160,7 @@ $$
     & R_2 = 680~\text{k}\Omega\\
 \end{flalign}
 $$
-aaa
+
 The resistor values for our CE amplifier are then:
 
 
