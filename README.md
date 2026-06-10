@@ -31,7 +31,7 @@ The unity gian frequency is useful when evaluating the frequency response of the
 
 By sweeping $$V_{BE}$$ we an performing an AC sweep we can obtain the unity-gain frequency at different values of $$V_{BE}$$.
 
-| Current Gain Circuit                                     | Current Gain Plot                                                                     |
+| Unity Gain Frequency Circuit                             | Unity Gain Frequency Plot                                                             |
 |----------------------------------------------------------|---------------------------------------------------------------------------------------|
 | ![](images/Unity-Gain-Frequency-images/unity-gain-frequency-circuit.png) | ![](images/Unity-Gain-Frequency-images/unity-gain-frequency-plot.png) |
 
